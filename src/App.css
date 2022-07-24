@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  gap: 20PX;
+  padding: 20PX;
+}
+
+.cover{
+  width: 60vw;
+}
+.cover iframe{
+  width: 100%;
+  height: 400px;
+}
+
+.item{
+  display: flex;
+  width: 35vw;
+  margin: 10px;
+}
+.item img{
+  width: 10vw;
+  height: 8VW;
+}
